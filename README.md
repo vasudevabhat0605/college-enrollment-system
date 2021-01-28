@@ -7,4 +7,5 @@ This is simple web application based on Php with MySql database.
 - Copy all files and directory in htdocs directory inside xampp or lampp (for example: C:\xampp\htdocs\collegeportal)
 - import database [ portl_college.sql ] in phpmyadmin
 - Open any browser and entered localhost and browse file location. (for example: localhost/collegeportal)
-- *Enjoy System* 
+ - it is have image to refer steps via steps.jpg
+ -*Enjoy System*
